@@ -4,6 +4,10 @@ from flask import Flask
 from flask import request
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 12fc83e62130cf8fd7b26f2cc1d7259d4bfbbd90
 =======
 
 >>>>>>> 12fc83e62130cf8fd7b26f2cc1d7259d4bfbbd90
